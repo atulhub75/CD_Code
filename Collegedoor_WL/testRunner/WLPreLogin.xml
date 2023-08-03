@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="1" name="Test">
+    <classes>
+      <class name="com.wl.testcases.LoginDDT"/>
+      <class name="com.wl.testcases.RegisterResetBtnTest"/>
+      <class name="com.wl.testcases.ResetPasswordTest"/>
+      <class name="com.wl.testcases.RegisterUserTest"/>
+      <class name="com.wl.testcases.LoginTest"/>
+      <class name="com.wl.testcases.ResetPasswordDDT"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

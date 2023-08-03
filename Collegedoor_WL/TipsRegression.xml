@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="RegressionSuite">
+  <test thread-count="5" name="Test">
+    <classes>
+      
+      <class name="com.wl.tips.testcase.Tips_TC1"/>
+      <class name="com.wl.tips.testcase.TS1_Tips_TC1"/>
+      <class name="com.wl.tips.testcase.TS1_Tips_TC2"/>
+      <class name="com.wl.tips.testcase.TS2_Tips_TC1"/>
+      <class name="com.wl.tips.testcase.TS2_Tips_TC2"/>
+      <class name="com.wl.tips.testcase.TS2_Tips_TC3"/>
+      <class name="com.wl.tips.testcase.TS2_Tips_TC4"/>    
+      <class name="com.wl.tips.testcase.TS2_Tips_TC5"/>
+      <class name="com.wl.tips.testcase.TS2_Tips_TC6"/>      
+      <class name="com.wl.tips.testcase.TS3_Tips_TC1"/>
+      <class name="com.wl.tips.testcase.TS3_Tips_TC2"/>
+      <class name="com.wl.tips.testcase.TS3_Tips_TC3"/>
+      <class name="com.wl.tips.testcase.TS4_Tips_TC1"/>
+      <class name="com.wl.tips.testcase.TS4_Tips_TC2"/>
+      <class name="com.wl.tips.testcase.TS4_Tips_TC3"/>
+      <class name="com.wl.tips.testcase.TS4_Tips_TC4"/>
+      <class name="com.wl.tips.testcase.TS4_Tips_TC5"/>
+      <class name="com.wl.tips.testcase.TS4_Tips_TC6"/>
+      <class name="com.wl.tips.testcase.TS4_Tips_TC7"/>
+      <class name="com.wl.tips.testcase.TS5_Tips_TC1"/>
+      <class name="com.wl.tips.testcase.TS5_Tips_TC2"/>
+      <class name="com.wl.tips.testcase.TS5_Tips_TC3"/>
+      <class name="com.wl.tips.testcase.TS5_Tips_TC4"/>      
+      <class name="com.wl.tips.testcase.TS5_Tips_TC5"/>
+      <class name="com.wl.tips.testcase.TS5_Tips_TC6"/>    
+      <class name="com.wl.tips.testcase.TS5_Tips_TC7"/>   
+      <class name="com.wl.tips.testcase.TS5_Tips_TC8"/>
+      <class name="com.wl.tips.testcase.TS5_Tips_TC9"/>
+      <class name="com.wl.tips.testcase.TS6_Tips_TC1"/>
+      <class name="com.wl.tips.testcase.TS6_Tips_TC2"/>
+      <class name="com.wl.tips.testcase.TS7_Tips_TC1"/>
+      <class name="com.wl.tips.testcase.TS7_Tips_TC2"/>
+      <class name="com.wl.tips.testcase.TS7_Tips_TC3"/>
+      <class name="com.wl.tips.testcase.TS8_Tips_TC1"/>
+      <class name="com.wl.tips.testcase.TS8_Tips_TC2"/>
+      <class name="com.wl.tips.testcase.TS8_Tips_TC3"/> 
+      <class name="com.wl.tips.testcase.TS8_Tips_TC4"/>
+      <class name="com.wl.tips.testcase.TS8_Tips_TC5"/>
+      <class name="com.wl.tips.testcase.TS8_Tips_TC6"/> 
+      <class name="com.wl.tips.testcase.TS9_Tips_TC1"/>
+      <class name="com.wl.tips.testcase.TS9_Tips_TC2"/>
+      <class name="com.wl.tips.testcase.TS9_Tips_TC3"/>
+     
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- RegressionSuite -->
